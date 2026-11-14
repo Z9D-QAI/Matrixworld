@@ -40,7 +40,7 @@ Für digitale Plattform-Leistungen, KI-Nutzung und interne Abrechnungen greifen 
 
 | ET-CREDITS Münze (Vorder- & Rückseite) | Interner ETC-Referenzindex & ZET-Paketstaffel |
 | :---: | :---: |
-| ![ET-CREDITS Münze](matrixworld-etcredits-muenze.png) | ![ET-CREDITS Referenzindex und Pakete](matrixworld-etcredits-boerse.png) |
+| ![ET-CREDITS Münze] | ![ET-CREDITS Referenzindex und Pakete] |
 
 ---
 ### 🛡️ Z9D Cyber Security & Robotic System EDR (Z9D-CSS & SRS)
