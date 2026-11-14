@@ -24,7 +24,8 @@ Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von
 
 | Marktplatz: Biete & Suche | Marktplatz: Warenmarkt & Auktionen |
 | :---: | :---: |
-| ![Biete und Suche]) | ![Warenmarkt] |
+| [Biete und Suche]) |         | [Warenmarkt] | 
+| [Wohnen Immobilien Jobs] | [Neu & Gebrauchtwaren] |
 
 ---
 
