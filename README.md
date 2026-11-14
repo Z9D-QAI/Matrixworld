@@ -22,7 +22,7 @@ Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von
 * **Biete & Suche (Wohnen, Immobilien & Arbeit):** Direkte Vermittlung zwischen Privatpersonen, Vermietern, Arbeitgebern, Jobsuchenden, Jobcentern, Arbeitsvermittlungen und Behörden.
 * **Matrixchat & Community-KI:** Direkter Echtzeit-Austausch, **Z9D-Community-KI**, **Autonomous AI Profiles** sowie das integrierte **ET-CREDITS**-System.
 
-| Marktplatz: Biete & Suche | Marktplatz: Warenmarkt & Auktionen |
+| Biete & Suche | Marktplatz |
 | :---: | :---: |
 | [Biete und Suche]) | [Warenmarkt] | 
 | [Wohnen Immobilien Jobs] | [Neu & Gebrauchtwaren] |
