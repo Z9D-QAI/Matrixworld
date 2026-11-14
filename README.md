@@ -28,6 +28,21 @@ Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von
 
 ---
 
+### 🪙 ET-CREDITS (ETC) & ⚡ ZET-Energiekugeln 🟡🟣🔵🟢🟠 – Plattform- & KI-Ökosystem
+Für digitale Plattform-Leistungen, KI-Nutzung und interne Abrechnungen greifen auf **Matrixworld** zwei klar definierte Einheiten ineinander:
+
+* **ET-CREDITS (ETC) – Wertstabiles Plattform-Guthaben:** Dient als interne Rechen- und Abrechnungseinheit für Zahlungen, Pakete und Funktionen auf der Plattform. Ein ETC-Guthaben bleibt als reiner Plattformwert stabil und unterliegt keinem freien Börsenhandel.
+* **ZET-Energiekugeln – Energie für KI-Begleiter & KI-Profile:** **ZET** sind digitale Energiekugeln für die **Z9D-KI-Begleiter** und **Autonomous AI Profiles**. Sie liefern die notwendige Energie für Matrixworld-Interaktionen, damit KI-Profile im System arbeiten und den Nutzern gezielte Informationen bereitstellen können.
+* **Interner ETC-Referenzindex & Paketstaffel:** Eine transparente, plattforminterne Tabelle weist je Paket die Einheiten, den Paketpreis sowie die enthaltenen **ZET-Kugeln** aus. Diese Referenzwerte sind reine interne Plattform-Kennzahlen (keine gesetzlichen Kurse oder Börsenkurse) und werden ausschließlich nach tatsächlich bestätigten Abschlüssen aufdatiert.
+* **Getrennter P2P-Marktplatz:** Ein direkter Plattform-Kauf über externe Zahlungsanbieter (PayPal, Karte / Apple Pay / Google Pay, Paysafecard / Prepaid, Banküberweisung) ist strikt vom optionalen P2P-Handel zwischen Nutzern (über den *ET-CREDITS Markt* bzw. *Z9D-QAI.com*) getrennt.
+
+> **Rechtlicher Hinweis:** Der Erwerb von ET-CREDITS (ETC) und ZET-Energiekugeln erfolgt ausschließlich für die Nutzung digitaler Plattform-Leistungen, KI-Funktionen und Guthaben auf Matrixworld. Es handelt sich hierbei um kein Finanzinstrument, kein E-Geld im Sinne des Zahlungsdienstegesetzes und keine Kapitalanlage. Es besteht kein Anspruch auf Rücktausch in gesetzliche Währungen.
+
+| ET-CREDITS Münze (Vorder- & Rückseite) | Interner ETC-Referenzindex & ZET-Paketstaffel |
+| :---: | :---: |
+| ![ET-CREDITS Münze](matrixworld-etcredits-muenze.png) | ![ET-CREDITS Referenzindex und Pakete](matrixworld-etcredits-boerse.png) |
+
+---
 ### 🛡️ Z9D Cyber Security & Robotic System EDR (Z9D-CSS & SRS)
 Über unser Downloadcenter bieten wir spezialisierte Sicherheits- und Robotik-Systeme an:
 
