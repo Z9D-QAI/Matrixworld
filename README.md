@@ -10,7 +10,7 @@ Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von
 ---
 
 ### 🌐 Offizielle Webseiten & Plattform-Zugänge
-* **MatrixWorld Plattform & Marktplatz:** [https://matrixworld.at](https://matrixworld.at)
+* **MatrixWorld Plattform & Marktplatz:** [https://matrixworld.at](https://matrixworld.z9d-qai.com/)
 * **Z9D QAI / Z9D Cyber Security:** [https://z9d-qai.com](https://z9d-qai.com)
 
 ---
