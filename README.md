@@ -1,6 +1,6 @@
 # Matrixworld
 Offizielle Dokumentation zu matrixworld.at und z9d-qai.com - Z9D Cyber Secure &amp; Robotic System.
-# MATRIXWORLD.AT – Z9D-QAI & Z9D Secure Robotic System
+# MATRIXWORLD.AT – Z9D-QAI & Z9D-CSS&SRS Cyber Secure&Robotic System EDR
 
 Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von  
 **Dr.MaS Zoran Ljubic**, Bregenz / Vorarlberg, Österreich.
