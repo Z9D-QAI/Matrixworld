@@ -1,73 +1,100 @@
 # Matrixworld
-Offizielle Dokumentation zu matrixworld.at und z9d-qai.com - Z9D Cyber Secure &amp; Robotic System.
-# MATRIXWORLD.AT – Z9D-QAI & Z9D-CSS&SRS Cyber Secure&Robotic System EDR
 
-Offizielle Dokumentation, Plattform-Übersicht und Projekt-Architektur von  
-**Dr.MaS Zoran Ljubic**, Bregenz / Vorarlberg, Österreich.
+Official documentation for [Matrixworld](https://matrixworld.at) and [Z9D-QAI](https://z9d-qai.com).
 
-![Z9D-QAI Matrixworld Startseite] https://matrixworld.at/
+This repository verifies and explains the Z9D-QAI / Matrixworld project ecosystem, including the communication platform, marketplace concepts, AI companions and cyber-security products.
 
----
+## Official domains
 
-### 🌐 Offizielle Webseiten & Plattform-Zugänge
-* **MatrixWorld Plattform & Marktplatz:** [https://matrixworld.at](https://matrixworld.z9d-qai.com/)
-* **Z9D QAI / Z9D Cyber Security:** [https://z9d-qai.com](https://z9d-qai.com)
+- **Matrixworld:** https://matrixworld.at
+- **Z9D-QAI:** https://z9d-qai.com
 
----
+The Matrixworld and Z9D-QAI brands are not associated with unsolicited social-media profiles or unofficial websites that may use similar names.
 
-### 🚀 Die Matrixworld-Plattform (Web & Installierbare App)
-**Z9D-QAI Matrixworld** vereint KI-Systeme, Community-Kommunikation und regionale sowie digitale Marktplätze in einer mehrsprachigen Web-App (DE, EN, FR, ES, AR, HI, UR, RUS, SRB, ZH, JA, KO):
+## Platform overview
 
-* **Warenmarkt (Festpreis & Auktion):** Handel mit Neu- und Gebrauchtwaren inklusive integrierter **ETC / ZET-Referenzkurs-Anzeige** und flexibler Angebotswährung.
-* **Biete & Suche (Wohnen, Immobilien & Arbeit):** Direkte Vermittlung zwischen Privatpersonen, Vermietern, Arbeitgebern, Jobsuchenden, Jobcentern, Arbeitsvermittlungen und Behörden.
-* **Matrixchat & Community-KI:** Direkter Echtzeit-Austausch, **Z9D-Community-KI**, **Autonomous AI Profiles** sowie das integrierte **ET-CREDITS**-System.
+Matrixworld is a multilingual web platform combining:
 
-| Biete & Suche | Marktplatz |
-| :---: | :---: |
-| [Wohnen Immobilien Jobs] | [Neu & Gebrauchtwaren] |
+- profiles and community communication;
+- AI companions and assisted workflows;
+- a marketplace for digital and physical offers;
+- a service and project mediation area;
+- knowledge, media and dataset exchange;
+- internal platform units and optional AI-account features.
 
----
+The exact availability of functions depends on the live service and applicable terms.
 
-### 🪙 ET-CREDITS (ETC) & ⚡ ZET-Energiekugeln 🟡🟣🔵🟢🟠 – Plattform- & KI-Ökosystem
-Für digitale Plattform-Leistungen, KI-Nutzung und interne Abrechnungen greifen auf **Matrixworld** zwei klar definierte Einheiten ineinander:
+## Matrixworld features
 
-* **ET-CREDITS (ETC) – Wertstabiles Plattform-Guthaben:** Dient als interne Rechen- und Abrechnungseinheit für Zahlungen, Pakete und Funktionen auf der Plattform. Ein ETC-Guthaben bleibt als reiner Plattformwert stabil und unterliegt keinem freien Börsenhandel.
-* **ZET-Energiekugeln – Energie für KI-Begleiter & KI-Profile:** **ZET** sind digitale Energiekugeln für die **Z9D-KI-Begleiter** und **Autonomous AI Profiles**. Sie liefern die notwendige Energie für Matrixworld-Interaktionen, damit KI-Profile im System arbeiten und den Nutzern gezielte Informationen bereitstellen können.
-* **Interner ETC-Referenzindex & Paketstaffel:** Eine transparente, plattforminterne Tabelle weist je Paket die Einheiten, den Paketpreis sowie die enthaltenen **ZET-Kugeln** aus. Diese Referenzwerte sind reine interne Plattform-Kennzahlen (keine gesetzlichen Kurse oder Börsenkurse) und werden ausschließlich nach tatsächlich bestätigten Abschlüssen aufdatiert.
-* **Getrennter P2P-Marktplatz:** Ein direkter Plattform-Kauf über externe Zahlungsanbieter (PayPal, Karte / Apple Pay / Google Pay, Paysafecard / Prepaid, Banküberweisung) ist strikt vom optionalen P2P-Handel zwischen Nutzern (über den *ET-CREDITS Markt* bzw. *Z9D-QAI.com*) getrennt.
+### Communication
 
-> **Rechtlicher Hinweis:** Der Erwerb von ET-CREDITS (ETC) und ZET-Energiekugeln erfolgt ausschließlich für die Nutzung digitaler Plattform-Leistungen, KI-Funktionen und Guthaben auf Matrixworld. Es handelt sich hierbei um kein Finanzinstrument, kein E-Geld im Sinne des Zahlungsdienstegesetzes und keine Kapitalanlage. Es besteht kein Anspruch auf Rücktausch in gesetzliche Währungen.
+- direct and community chat;
+- role-based profiles;
+- visible status and optional confirmation features;
+- future voice and video integrations.
 
-| ET-CREDITS Münze (Vorder- & Rückseite) | Interner ETC-Referenzindex & ZET-Paketstaffel |
-| :---: | :---: |
-| ![ET-CREDITS Münze] | ![ET-CREDITS Referenzindex und Pakete] |
+### Marketplace
 
----
-### 🛡️ Z9D Cyber Security & Robotic System EDR (Z9D-CSS & SRS)
-Über unser Downloadcenter bieten wir spezialisierte Sicherheits- und Robotik-Systeme an:
+- new and used goods;
+- digital services and data offers;
+- project and company listings;
+- fixed-price and auction-style offers;
+- mediation for work, contracts and technical services.
 
-* **Z9D Cyber Secure & Robotic System EDR:** Standard-Versionen und Elite Edition
-* **MULTI_DOMAIN Security:** `SPACE`, `SPACE_ORBITAL`, `AIR`, `LAND`, `MARITIME_SURFACE`, `MARITIME_SUBSEA`, `GROUND_CONTROL`
-* **Geschützte Kommunikation:** `ACOUSTIC`, `BLUETOOTH`, `CELLULAR`, `ETHERNET`, `GNSS`, `INFRARED`, `OPTICAL`
-* **Live-Schutz & Abwehr:** Geräte-ID-Validierung, Live-Prozess-Monitoring, Remote-IP-Analyse, Bedrohungsgrad-Score, Quarantäne, IP-Blockierung und automatisierte Polizei-Meldung
+### AI companions
 
----
+The platform provides concepts for:
 
-### 🔍 Warum dieses Repository?
-Da der allgemeine Begriff „Matrix World“ weltweit von vielen verschiedenen Projekten verwendet wird, dient dieses öffentliche Repository als verifizierte, durchsuchbare Dokumentation für Suchmaschinen und als offizieller Echtheitsnachweis unserer Original-Webseiten.
+- user-defined AI profiles;
+- AI-assisted communication and comparison;
+- local or external AI-provider connections;
+- knowledge and task assistance within platform rules.
 
----
+AI output should be reviewed by users and is not a substitute for professional medical, legal or financial advice.
 
-### ✅ Echtheitsnachweis & Warnung vor Fake-Profilen
-* Verifizierte System-Logs (SRS Logs mit Zeitstempel), Plattform-Screenshots sowie Nachweise zu Geräte-IDs und Live-Prozessen.
-* **Wichtiger Sicherheitshinweis:** Es besteht **keinerlei Verbindung** zu Profilen auf TikTok, Instagram, WhatsApp oder anderen sozialen Netzwerken, die sich als *Zoran Ljubic*, *Z9D-QAI* oder *MatrixWorld* ausgeben und fremde Webseiten oder Handynummern bewerben.
+## Internal platform units
 
-Verbindlich und offiziell sind ausschließlich diese beiden Domains:
-* [https://matrixworld.at](https://matrixworld.at)
-* [https://z9d-qai.com](https://z9d-qai.com)
+### ET-CREDITS
 
----
+ET-CREDITS (ETC) are platform-internal units for eligible digital products and platform services. They are not described as a publicly traded currency or investment instrument.
 
-### © Lizenz & Urheberrecht
-**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
-Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](./LICENSE).
+### ZET
+
+ZET is a digital unit used within the AI-companion and platform account system. Availability and consumption rules are defined by the live platform.
+
+Both concepts are subject to the platform terms and applicable legal requirements.
+
+## Z9D cybersecurity and robotics
+
+The Z9D ecosystem also documents the following product areas:
+
+- Z9D-CSS for Windows process, network and endpoint monitoring;
+- Z9D-SRS for robot and control-station security;
+- local, USB and OEM licensing arrangements;
+- optional AI-assisted analysis and incident reporting.
+
+No security product can guarantee protection against every threat.
+
+## Authenticity
+
+To verify information about Z9D-QAI or Matrixworld:
+
+1. Use only the official domains listed above.
+2. Verify release files before opening or executing them.
+3. Compare package details with this repository.
+4. Be cautious of copied profiles, altered downloads or requests for private credentials.
+
+## Repository purpose
+
+This repository is maintained as:
+
+- public, searchable project documentation;
+- an authenticity reference;
+- an overview of official domains and product areas;
+- a link between the Matrixworld and Z9D-QAI projects.
+
+## License
+
+Copyright (c) 2026 Zoran Ljubic - Z9D-QAI / Matrixworld
+
+All rights reserved. Details are available in [`LICENSE`](./LICENSE).
